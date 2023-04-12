@@ -12,7 +12,7 @@
 
 - Supported the entire engineering org in all things Build Engineering
 - Migrated our core build tooling from Bazel to Pants, resulting in:
-  - **Minutes** saved on local and PR runs of the static analysis and test pipeline
+  - **>10 Minutes** saved on local and PR runs of the static analysis and test pipeline
   - Over **twenty thousand** of lines of BUILD metadata collapsed into 800
   - A better developer experience
 - Introduced several new static analysis tools to our toolkit to help catch issues early
