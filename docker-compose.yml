@@ -1,13 +1,11 @@
-version: '2'
+version: "2"
 
 services:
-
   resume-make:
     build:
       context: .
       dockerfile: ./.docker/resume.dockerfile
     container_name: resume-make
-    entrypoint: /entrypoint.sh
-    image: resume-make
+    command: sh -c "cd /home/app/resume && make html pdf"
     volumes:
       - .:/home/app/resume:z

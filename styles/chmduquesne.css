@@ -36,7 +36,7 @@ h2 {
     color: #397249;
 }
 /* There is a bar just before each category */
-h2:before {
+h3:before {
     content: "";
     display: inline-block;
     margin-right:1%;
