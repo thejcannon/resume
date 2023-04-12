@@ -13,7 +13,7 @@
 - Supported the entire engineering org in all things Build Engineering
 - Migrated our core build tooling from Bazel to Pants, resulting in:
   - **Minutes** saved on local and PR runs of the static analysis and test pipeline
-  - **Tens-of-thousands** of lines of BUILD metadata collapsing into hundreds
+  - Over **twenty thousand** of lines of BUILD metadata collapsed into 800
   - A better developer experience
 - Introduced several new static analysis tools to our toolkit to help catch issues early
 - Pioneered the ability to dockerize any file with:
@@ -41,7 +41,7 @@ writing production-ready application code, while still increasing code quality a
 Pantsbuild
 : Maintainer of the [Pantsbuild open source Build system](https://www.pantsbuild.org/)
 
-    - Contributed hundreds of bug fixes and feature improvements with a focus on:
+    - Contributed over 300 of bug fixes and feature improvements with a focus on:
       - Simplifying the experience of all users of Pants
       - Making commands run as quickly as possible
       - Upstreaming all of my internal plugins, so the community benefits
