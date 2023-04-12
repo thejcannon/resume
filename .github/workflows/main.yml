@@ -7,19 +7,46 @@ on:
       - "markdown/**"
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  build-resume:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
 
       - name: Build resume
         run: docker compose up
 
-      - name: Upload a Build Artifact
+      - name: Make index
+        run: cd output && sudo cp resume.html index.html
+
+      - name: Upload PDF
         uses: actions/upload-artifact@v2.2.3
         with:
           name: resume
           path: |
             output/resume.pdf
-            output/resume.html
+
+      - name: Publish HTML
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: output
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2

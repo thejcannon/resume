@@ -1,100 +1,70 @@
-Johnny Coder
-============
+# Joshua Cannon
 
-----
+---
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Build Engineer who cares deeply about "Developer Experience"
 
-----
+---
 
-Education
----------
+## Experience
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+### Senior Build Engineer - IBM Watson Orders (previously McD Tech Labs)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+- Supported the entire engineering org in all things Build Engineering
+- Migrated our core build tooling from Bazel to Pants, resulting in:
+  - **Minutes** saved on local and PR runs of the static analysis and test pipeline
+  - **Tens-of-thousands** of lines of BUILD metadata collapsing into hundreds
+  - A better developer experience
+- Introduced several new static analysis tools to our toolkit to help catch issues early
+- Pioneered the ability to dockerize any file with:
+  - bit-wise reproduction capabilities
+  - maximum leveraging of the docker layer cache, yielding fast re-builds
+  - automatic dependency upgrades
+- Resident "Pythonista" offering support and solutions to all engineers for our entire codebase
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Overall, removed hurdles and blockages that were interrupting an engineer's ability to focus on
+writing production-ready application code, while still increasing code quality and security.
 
-    *Minor: Awesomeology*
+### Senior Software Engineer - National Instruments
 
-Experience
-----------
+- Led company-wide Python coding conventions and best practices group with am emphasis on automated
+  tooling
+- Aided the design and implementation of a new company-wide CI/CD pipeline with a focus on
+  flexibility, performance, and ease-of-use
+- Designed and implemented foundational C++ device API engine to replace outdated C-based
+  implementation which resulted in better testing support, cleaner code, and in some cases 4x speed
+  improvement
+- Created/Maintained backport library of subset of "modern" C++ STL to be used with older compilers
 
-**Your Most Recent Work Experience:**
+## Technical
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Pantsbuild
+: Maintainer of the [Pantsbuild open source Build system](https://www.pantsbuild.org/)
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+    - Contributed hundreds of bug fixes and feature improvements with a focus on:
+      - Simplifying the experience of all users of Pants
+      - Making commands run as quickly as possible
+      - Upstreaming all of my internal plugins, so the community benefits
+    - Provided Slack and GitHub support for the entire Pants community
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+: **Python:** Expert-level experience with a wide swath of the Python ecosystem. From the
+interpreter and standard-library, to commonly-used libraries, to full-stack development,
+to tooling for static analysis, packaging, and testing.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+: **Intermediate knowledge of** C++, Rust, JS/TS
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+## Education
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+2013-2016
+: **BS, Computer Science**; The University of Texas (Austin)
 
-[ref]: https://github.com/githubuser/superlongprojectname
+## Media
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+- Talk: [PyTexas 2023 - A Build Engineer in a buildless lang](https://youtu.be/OENthsW-bMs)
+- Lightning Talk: [PyTexas 2023 - Two Snakes in a Trenchcoat - Descriptors](https://youtu.be/Y_lfGon4iiE?t=1003)
+- Podcast: [InfoQ 2022 - Enabling a Collaborative and Welcoming Open Source Community](https://www.infoq.com/podcasts/welcoming-open-source-community/)
 
-* Human Languages:
+---
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <joshdcannon@gmail.com> | [GitHub:thejcannon](https://github.com/thejcannon)
