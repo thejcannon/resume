@@ -64,6 +64,8 @@ to tooling for static analysis, packaging, and testing.
 - Talk: [PyTexas 2023 - A Build Engineer in a buildless lang](https://youtu.be/OENthsW-bMs)
 - Lightning Talk: [PyTexas 2023 - Two Snakes in a Trenchcoat - Descriptors](https://youtu.be/Y_lfGon4iiE?t=1003)
 - Podcast: [InfoQ 2022 - Enabling a Collaborative and Welcoming Open Source Community](https://www.infoq.com/podcasts/welcoming-open-source-community/)
+- Blog: [Pantsbuild blog (multiple)](https://blog.pantsbuild.org/author/joshua/)
+- Blog: [IBM Developer - Case study: Incrementally migrating a Python monorepo from Bazel to Pants](https://developer.ibm.com/blogs/case-study-incrementally-migrating-a-python-monorepo-from-bazel-to-pants/)
 
 ---
 
