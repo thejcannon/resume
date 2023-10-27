@@ -8,14 +8,14 @@
 
 ## Experience
 
-### Senior Build Engineer - IBM Watson Orders (previously McD Tech Labs)
+### Senior Build Engineer - IBM WatsonX Orders (previously McD Tech Labs)
 
 - Supported the entire engineering org in all things Build Engineering
 - Migrated our core build tooling from Bazel to Pants, resulting in:
   - **>10 Minutes** saved on local and PR runs of the static analysis and test pipeline
   - Over **twenty thousand** of lines of BUILD metadata collapsed into 800
   - A better developer experience
-- Introduced several new static analysis tools to our toolkit to help catch issues early
+- Introduced several new static analysis tools to our toolkit to help catch issues early in the SDLC
 - Pioneered the ability to dockerize any file with:
   - bit-wise reproduction capabilities
   - maximum leveraging of the docker layer cache, yielding fast re-builds
@@ -61,6 +61,7 @@ to tooling for static analysis, packaging, and testing.
 
 ## Media
 
+- Talk: [North Bay Python 2023 - Oh the (Methods) You Can (Make): By Dunder Seuss](https://youtu.be/CSpzTx-S8B0)
 - Talk: [PyTexas 2023 - A Build Engineer in a buildless lang](https://youtu.be/OENthsW-bMs)
 - Lightning Talk: [PyTexas 2023 - Two Snakes in a Trenchcoat - Descriptors](https://youtu.be/Y_lfGon4iiE?t=1003)
 - Podcast: [InfoQ 2022 - Enabling a Collaborative and Welcoming Open Source Community](https://www.infoq.com/podcasts/welcoming-open-source-community/)
