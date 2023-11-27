@@ -70,4 +70,4 @@ to tooling for static analysis, packaging, and testing.
 
 ---
 
-> <joshdcannon@gmail.com> | [GitHub:thejcannon](https://github.com/thejcannon) | [@thejcannon@fosstodon.org](https://fosstodon.org/@thejcannon)
+> <joshdcannon@gmail.com> | [GitHub:thejcannon](https://github.com/thejcannon) | [\@thejcannon\@fosstodon.org](https://fosstodon.org/@thejcannon)
