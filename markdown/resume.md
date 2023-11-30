@@ -8,7 +8,7 @@
 
 ## Experience
 
-### Senior Build Engineer - IBM WatsonX Orders (previously McD Tech Labs)
+### Team Lead - Build Engineer - IBM WatsonX Orders (previously McD Tech Labs)
 
 - Supported the entire engineering org in all things Build Engineering
 - Migrated our core build tooling from Bazel to Pants, resulting in:
