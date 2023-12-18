@@ -61,6 +61,7 @@ to tooling for static analysis, packaging, and testing.
 
 ## Media
 
+- ⚡ Talk: [PyOhio 2023 - Mommy, How Are Objects Made? - by Dunder Seuss](https://youtu.be/P6ZoR8Egkpg)
 - Talk: [North Bay Python 2023 - Oh the (Methods) You Can (Make): By Dunder Seuss](https://youtu.be/CSpzTx-S8B0)
 - Talk: [PyTexas 2023 - A Build Engineer in a buildless lang](https://youtu.be/OENthsW-bMs)
 - Lightning Talk: [PyTexas 2023 - Two Snakes in a Trenchcoat - Descriptors](https://youtu.be/Y_lfGon4iiE?t=1003)
