@@ -2,11 +2,17 @@
 
 ---
 
-> Build Engineer who cares deeply about "Developer Experience"
+> An engineer crazy about good, clean, fun code (and colleagues).
 
 ---
 
 ## Experience
+
+### Member of Technical Staff (Infrastructure) - Anthropic
+
+- Wrote the "poor-man's build system approximation" - a system whose purpose was to be as absolutely as simple/invisible as possible while still providing most of the features of a "real" build system
+- Leader/owner of CI, including integrations with third party providers as well as testing/merge queue strategies
+- Stood up the framework and initial rollout of powerful GitHub-Actions workflows, which balanced strict security requirements with maximum permissions, and ultimately increased security and developer velocity
 
 ### Team Lead - Build Engineer - IBM WatsonX Orders (previously McD Tech Labs)
 
@@ -39,13 +45,7 @@ writing production-ready application code, while still increasing code quality a
 ## Technical
 
 Pantsbuild
-: Maintainer of the [Pantsbuild open source Build system](https://www.pantsbuild.org/)
-
-    - Contributed over 300 of bug fixes and feature improvements with a focus on:
-      - Simplifying the experience of all users of Pants
-      - Making commands run as quickly as possible
-      - Upstreaming all of my internal plugins, so the community benefits
-    - Provided Slack and GitHub support for the entire Pants community
+: Maintainer-emeritus of the [Pantsbuild open source Build system](https://www.pantsbuild.org/)
 
 Programming Languages
 : **Python:** Expert-level experience with a wide swath of the Python ecosystem. From the
