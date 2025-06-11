@@ -12,7 +12,7 @@
 
 - Wrote the "poor-man's build system approximation" - a system whose purpose was to be as absolutely as simple/invisible as possible while still providing most of the features of a "real" build system
 - Leader/owner of CI, including integrations with third party providers as well as testing/merge queue strategies
-- Stood up the framework and initial rollout of powerful GitHub-Actions workflows, which balanced strict security requirements with maximum permissions, and ultimately increased security and developer velocity
+- Stood up the framework and initial rollout of powerful GitHub-Actions workflows, which balanced strict security requirements with maximum permissions, and ultimately increased security as well as developer velocity
 
 ### Team Lead - Build Engineer - IBM WatsonX Orders (previously McD Tech Labs)
 
