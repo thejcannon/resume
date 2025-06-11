@@ -59,8 +59,9 @@ to tooling for static analysis, packaging, and testing.
 2013-2016
 : **BS, Computer Science**; The University of Texas (Austin)
 
-## Media
+## Shenanigans
 
+- Repo: [Advent of one-line-of Code 2023])(https://github.com/thejcannon/AdventOf-OneLineOf-Code2023)
 - ⚡ Talk: [PyOhio 2023 - Mommy, How Are Objects Made? - by Dunder Seuss](https://youtu.be/P6ZoR8Egkpg)
 - Talk: [North Bay Python 2023 - Oh the (Methods) You Can (Make): By Dunder Seuss](https://youtu.be/CSpzTx-S8B0)
 - Talk: [PyTexas 2023 - A Build Engineer in a buildless lang](https://youtu.be/OENthsW-bMs)
