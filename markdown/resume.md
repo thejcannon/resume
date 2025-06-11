@@ -11,8 +11,11 @@
 ### Member of Technical Staff (Infrastructure) - Anthropic
 
 - Wrote the "poor-man's build system approximation" - a system whose purpose was to be as absolutely as simple/invisible as possible while still providing most of the features of a "real" build system
-- Leader/owner of CI, including integrations with third party providers as well as testing/merge queue strategies
-- Stood up the framework and initial rollout of powerful GitHub-Actions workflows, which balanced strict security requirements with maximum permissions, and ultimately increased security as well as developer velocity
+  - Automatic dependency management, tooling, dependency scraping, and even a remote test cache - for peanuts compared to Bazel (and even Pants)
+- Led/owned CI for the primary monorepo, with an emphasis on testing and merge queue strategy
+  - Improved reliability, speed, cost, reproducibility, and the overall feedback loop
+- Stood up the framework and rollout of powerful GitHub-Actions workflows, which balanced strict security requirements with maximum permissions
+  - Ultimately increased security posture _as well as_ developer velocity 
 
 ### Team Lead - Build Engineer - IBM WatsonX Orders (previously McD Tech Labs)
 
@@ -20,7 +23,6 @@
 - Migrated our core build tooling from Bazel to Pants, resulting in:
   - **>10 Minutes** saved on local and PR runs of the static analysis and test pipeline
   - Over **twenty thousand** of lines of BUILD metadata collapsed into 800
-  - A better developer experience
 - Introduced several new static analysis tools to our toolkit to help catch issues early in the SDLC
 - Pioneered the ability to dockerize any file with:
   - bit-wise reproduction capabilities
@@ -33,7 +35,7 @@ writing production-ready application code, while still increasing code quality a
 
 ### Senior Software Engineer - National Instruments
 
-- Led company-wide Python coding conventions and best practices group with am emphasis on automated
+- Led company-wide Python coding conventions and best practices group with an emphasis on automated
   tooling
 - Aided the design and implementation of a new company-wide CI/CD pipeline with a focus on
   flexibility, performance, and ease-of-use
