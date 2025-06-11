@@ -1,7 +1,5 @@
 # Joshua Cannon
 
-(in a nutshell)
-
 ---
 
 > An engineer crazy about good, clean, fun code (and colleagues).
