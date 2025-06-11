@@ -1,4 +1,6 @@
-# Joshua Cannon (in a nutshell)
+# Joshua Cannon
+
+(in a nutshell)
 
 ---
 
@@ -17,7 +19,7 @@
 - Stood up the framework and rollout of powerful GitHub-Actions workflows, which balanced strict security requirements with maximum permissions
   - Ultimately increased security posture _as well as_ developer velocity 
 
-### Team Lead - Build Engineer - IBM WatsonX Orders (previously McD Tech Labs)
+### Team Lead/Build Engineer - IBM WatsonX Orders (prior McD Tech Labs)
 
 - Supported the entire engineering org in all things Build Engineering
 - Migrated our core build tooling from Bazel to Pants, resulting in:
