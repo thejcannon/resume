@@ -1,4 +1,4 @@
-# Joshua Cannon
+# Joshua Cannon (in a nutshell)
 
 ---
 
