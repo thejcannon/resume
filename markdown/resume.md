@@ -8,7 +8,7 @@
 
 ## Experience
 
-### Member of Technical Staff (Infrastructure) - Anthropic
+### Member of Technical Staff (Infrastructure) - Anthropic \[Jan 2024 - present\]
 
 - Wrote the "poor-man's build system approximation" - a system whose purpose was to be as absolutely as simple/invisible as possible while still providing most of the features of a "real" build system
   - Automatic dependency management, tooling, dependency scraping, and even a remote test cache - for peanuts compared to Bazel (and even Pants)
@@ -17,7 +17,7 @@
 - Stood up the framework and rollout of powerful GitHub-Actions workflows, which balanced strict security requirements with maximum permissions
   - Ultimately increased security posture _as well as_ developer velocity 
 
-### Team Lead/Build Engineer - IBM WatsonX Orders (prior McD Tech Labs)
+### Team Lead/Build Engineer - IBM WatsonX Orders (prior McD Tech Labs) \[Jul 2021 - Jan 2024\]
 
 - Supported the entire engineering org in all things Build Engineering
 - Migrated our core build tooling from Bazel to Pants, resulting in:
@@ -33,7 +33,7 @@
 Overall, removed hurdles and blockages that were interrupting an engineer's ability to focus on
 writing production-ready application code, while still increasing code quality and security.
 
-### Senior Software Engineer - National Instruments
+### Senior Software Engineer - National Instruments \[May 2014 - Jul 2021\]
 
 - Led company-wide Python coding conventions and best practices group with an emphasis on automated
   tooling
