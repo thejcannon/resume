@@ -33,7 +33,7 @@
 Overall, removed hurdles and blockages that were interrupting an engineer's ability to focus on
 writing production-ready application code, while still increasing code quality and security.
 
-### Senior Software Engineer - National Instruments \[05/2014 - -7/2021\]
+### Senior Software Engineer - National Instruments \[05/2014 - 07/2021\]
 
 - Led company-wide Python coding conventions and best practices group with an emphasis on automated
   tooling
