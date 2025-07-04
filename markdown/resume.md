@@ -8,7 +8,7 @@
 
 ## Experience
 
-### Member of Technical Staff (Infrastructure) - Anthropic \[Jan 2024 - present\]
+### Member of Technical Staff (Infrastructure) - Anthropic \[01/2024 - \]
 
 - Wrote the "poor-man's build system approximation" - a system whose purpose was to be as absolutely as simple/invisible as possible while still providing most of the features of a "real" build system
   - Automatic dependency management, tooling, dependency scraping, and even a remote test cache - for peanuts compared to Bazel (and even Pants)
@@ -17,7 +17,7 @@
 - Stood up the framework and rollout of powerful GitHub-Actions workflows, which balanced strict security requirements with maximum permissions
   - Ultimately increased security posture _as well as_ developer velocity 
 
-### Build Engineer - IBM WatsonX Orders (prior McD Tech Labs) \[Jul 2021 - Jan 2024\]
+### Build Engineer - IBM WatsonX Orders (prior McD Tech Labs) \[07/2021 - 01/2024\]
 
 - Supported the entire engineering org in all things Build Engineering
 - Migrated our core build tooling from Bazel to Pants, resulting in:
@@ -33,7 +33,7 @@
 Overall, removed hurdles and blockages that were interrupting an engineer's ability to focus on
 writing production-ready application code, while still increasing code quality and security.
 
-### Senior Software Engineer - National Instruments \[May 2014 - Jul 2021\]
+### Senior Software Engineer - National Instruments \[05/2014 - -7/2021\]
 
 - Led company-wide Python coding conventions and best practices group with an emphasis on automated
   tooling
@@ -63,6 +63,7 @@ to tooling for static analysis, packaging, and testing.
 
 ## Shenanigans
 
+- Personal Blog: [https://joshcannon.me/](https://joshcannon.me/)
 - Repo: [Advent of one-line-of Code 2023](https://github.com/thejcannon/AdventOf-OneLineOf-Code2023)
 - ⚡ Talk: [PyOhio 2023 - Mommy, How Are Objects Made? - by Dunder Seuss](https://youtu.be/P6ZoR8Egkpg)
 - Talk: [North Bay Python 2023 - Oh the (Methods) You Can (Make): By Dunder Seuss](https://youtu.be/CSpzTx-S8B0)
